@@ -109,10 +109,5 @@ Contribuciones, sugerencias y mejoras son bienvenidas. Para contribuir:
 
 ---
 
-## **Licencia**
-
-Este proyecto está bajo la licencia [MIT](https://choosealicense.com/licenses/mit/).
-
----
 
 
