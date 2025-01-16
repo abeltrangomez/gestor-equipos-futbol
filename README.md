@@ -70,7 +70,7 @@ La aplicación utiliza JavaScript para funcionalidades dinámicas y CSS para dis
 
 1. **Clonar el Repositorio**:
    ```bash
-   git clone https://github.com/tuusuario/gestor-equipos-futbol.git
+   git clone https://github.com/abeltrangomez/gestor-equipos-futbol.git
    ```
 
 2. **Abrir el Proyecto**:
