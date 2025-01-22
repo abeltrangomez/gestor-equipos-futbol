@@ -52,15 +52,15 @@ La aplicación utiliza JavaScript para funcionalidades dinámicas y CSS para dis
 ## **Estructura del Proyecto**
 
 ```plaintext
-├── index.html            # Página principal
-├── styles/
-│   └── main.css          # Archivo de estilos principales
-├── scripts/
-│   ├── app.js            # Funcionalidades principales de la aplicación
-│   └── utils.js          # Funciones auxiliares y reutilizables
+/mi-app
+├── index.html
+├── script.js
+├── style.css
 ├── assets/
-│   ├── images/           # Recursos gráficos (íconos, logotipos, etc.)
-│   └── fonts/            # Fuentes personalizadas
+    ├── falcao.jpeg
+    ├── junior.logo.png
+    ├── millonarios.jpeg
+    ├── santafe.jpeg
 └── README.md             # Documentación del proyecto
 ```
 
