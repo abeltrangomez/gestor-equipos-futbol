@@ -6,4 +6,4 @@ COPY . /usr/share/nginx/html
 
 # Exponer el puerto 80
 EXPOSE 80
-Este archivo configurará un servidor Nginx para servir tu aplicación estática.
+#Este archivo configurará un servidor Nginx para servir tu aplicación estática.
